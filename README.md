@@ -1,2 +1,2 @@
-# Queen_Anita-
-Queen_Anita-V2 Whatsapp bot
+# vicz_smith-
+Vicz_smith-V1 Whatsapp bot
